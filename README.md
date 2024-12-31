@@ -1,0 +1,1 @@
+Using a book from my library called, "Mining Social Media," I learned how to create a .csv of YouTube videos.  Coincidently, on my work project they wanted to know how many videos our project has on YouTube. I adapted the code to produce the .csv.
