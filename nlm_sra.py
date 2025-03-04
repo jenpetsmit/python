@@ -30,6 +30,3 @@ with open("youtube_videos_sra.csv", "w", encoding="utf-8") as csv_file:
             has_another_page = False
 
 
-___
-
-[Return to Portfolio Home Page](https://jenpetsmit.github.io/)
